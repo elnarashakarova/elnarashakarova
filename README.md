@@ -12,7 +12,7 @@ I am Elnara, curious in learning new things and I am here to learn Python and im
 - ✨Universität des Saarlandes
 
 
-# 😄Fun Fact: 
+# Fun Fact: 
 - I was born in Russia, in Siberia and the weather was -40 degree on that day. Now I hate cold weather and when it is cold my teeth immediately start chattering.
 
 # 📫How to reach me:
